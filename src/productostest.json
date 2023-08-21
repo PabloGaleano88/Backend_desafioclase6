@@ -1,29 +1,92 @@
 [
 	{
 		"id": 0,
-		"title": "producto prueba",
-		"description": "Este es un producto prueba",
-		"price": 200,
-		"thumbnail": "Sin imagen",
-		"code": "abc123",
-		"stock": 25
+		"title": "Teclado Mecánico",
+		"description": "Teclado mecánico de alta calidad para una experiencia de escritura excepcional.",
+		"price": 89.99,
+		"thumbnail": "teclado.jpg",
+		"code": "KBMEC001",
+		"stock": 50
 	},
 	{
 		"id": 1,
-		"title": "producto prueba2",
-		"description": "Este es un producto prueba2",
-		"price": 400,
-		"thumbnail": "Sin imagen2",
-		"code": "abc1231",
-		"stock": 225
+		"title": "Mouse Óptico",
+		"description": "Mouse óptico ergonómico con botones programables para una mayor productividad.",
+		"price": 24.99,
+		"thumbnail": "mouse.jpg",
+		"code": "MOPT002",
+		"stock": 75
 	},
 	{
 		"id": 2,
-		"title": "producto prueba3",
-		"description": "Este es un producto prueba3",
-		"price": 600,
-		"thumbnail": "Sin imagen3",
-		"code": "abc12313",
-		"stock": 3225
+		"title": "Monitor UltraWide",
+		"description": "Monitor ultra ancho de 34 pulgadas con resolución QHD para una experiencia inmersiva.",
+		"price": 399.99,
+		"thumbnail": "monitor.jpg",
+		"code": "MONUW003",
+		"stock": 30
+	},
+	{
+		"id": 3,
+		"title": "Auriculares Bluetooth",
+		"description": "Auriculares inalámbricos con cancelación de ruido para disfrutar de la música sin distracciones.",
+		"price": 129.99,
+		"thumbnail": "auriculares.jpg",
+		"code": "AURBT004",
+		"stock": 20
+	},
+	{
+		"id": 4,
+		"title": "Laptop Ultrabook",
+		"description": "Laptop ultradelgada y ligera con potentes capacidades de rendimiento.",
+		"price": 999.99,
+		"thumbnail": "laptop.jpg",
+		"code": "LTULT005",
+		"stock": 15
+	},
+	{
+		"id": 5,
+		"title": "Impresora Multifunción",
+		"description": "Impresora que imprime, escanea y copia con alta calidad y rapidez.",
+		"price": 149.99,
+		"thumbnail": "impresora.jpg",
+		"code": "IMPMULTI006",
+		"stock": 40
+	},
+	{
+		"id": 6,
+		"title": "Cámara DSLR",
+		"description": "Cámara réflex digital de alta gama con lentes intercambiables para capturar momentos excepcionales.",
+		"price": 799.99,
+		"thumbnail": "camara.jpg",
+		"code": "CAMDSLR007",
+		"stock": 10
+	},
+	{
+		"id": 7,
+		"title": "Altavoz Bluetooth",
+		"description": "Altavoz portátil con conectividad Bluetooth para disfrutar de un sonido potente en cualquier lugar.",
+		"price": 59.99,
+		"thumbnail": "altavoz.jpg",
+		"code": "ALTBGHT008",
+		"stock": 55
+	},
+	{
+		"id": 8,
+		"title": "Smartphone Android",
+		"description": "Smartphone con sistema Android, cámara de alta resolución y rendimiento fluido.",
+		"price": 299.99,
+		"thumbnail": "smartphone.jpg",
+		"code": "PHNAND009",
+		"stock": 25
+	},
+	{
+		"id": 9,
+		"title": "Tablet iOS",
+		"description": "Tablet con sistema operativo iOS, pantalla retina y acceso a una amplia variedad de aplicaciones.",
+		"price": 499.99,
+		"thumbnail": "tablet.jpg",
+		"code": "TABIOS010",
+		"stock": 18
 	}
 ]
